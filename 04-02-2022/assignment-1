@@ -20,6 +20,6 @@ int main()
     else
         flag=flag+1;
         }
-    printf("The number of vowels =%d \n The number of consonents =%d",count,flag);
+    printf("The number of vowels are : %d \n The number of consonents are : %d",count,flag);
     return 0;
 }
